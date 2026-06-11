@@ -129,9 +129,9 @@ Refer to `architecture_diagram.png` in the repo/docs for a visual overview.
 Feedback welcome! Issues/PRs encouraged.
 
 ## 📞 Contact
-- **Author**: Harshvardhan Dhane
-- **LinkedIn**: [https://www.linkedin.com/in/harshvardhandhane25/](https://www.linkedin.com/in/harshvardhandhane25/)
-- **Email**: harshvardhandhane25@gmail.com
-- **Phone**: +91 8459201292
+- **Author**: Raviraj Kharade
+- **LinkedIn**: [www.linkedin.com/in/raviraj-kharade-9b29b02a5](www.linkedin.com/in/raviraj-kharade-9b29b02a5)
+- **Email**: ravirajkharade100@gmail.com
+- **Phone**: +91 8237660179
 
 Built with ❤️ for healthcare innovation. Star the repo if it helps! ⭐
